@@ -1,0 +1,11 @@
+fqdn==1.5.1
+isoduration==20.11.0
+jsonpointer==2.3
+jupyter==1.0.0
+pip-chill==1.0.1
+scikit-learn
+streamlit==1.40.0
+uri-template==1.2.0
+webcolors==1.13
+wincertstore==0.2
+numpy
