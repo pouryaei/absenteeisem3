@@ -1,3 +1,4 @@
+---
 title: Absenteeism3
 emoji: 🌖
 colorFrom: red
@@ -7,3 +8,4 @@ sdk_version: 1.44.1
 app_file: app.py
 pinned: false
 license: openrail
+---
