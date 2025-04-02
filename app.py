@@ -12,7 +12,7 @@ from absenteeism_module import *
 ################################################################
 
 def Input_Output():
-    data = st.file_uploader("لطفن فایل خود را اینجا آپلود نمائید", type={"csv", "txt"})
+    data = st.file_uploader("Please enter your file here😉😎", type={"csv", "txt"})
     if data is not None:
         df = pd.read_csv(data)
         st.write(df)
